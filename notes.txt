@@ -1,0 +1,7 @@
+
+https://earthquake.usgs.gov/
+https://earthquake.usgs.gov/fdsnws/event/1/
+https://www.programmableweb.com/category/earthquakes/api
+
+https://www.programmableweb.com/category
+
